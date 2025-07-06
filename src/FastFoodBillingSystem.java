@@ -2,9 +2,6 @@ import java.util.*;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-// 1. Make proper menu (now only for demo)
-// Understand constructor overloading for Exceptions and which message will be finally printed
-
 // Main class
 public class FastFoodBillingSystem {
 
